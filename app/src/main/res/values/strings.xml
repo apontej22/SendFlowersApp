@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Send Flowers App</string>
+    <string name="lblFlowerShop">Lilies Flower Shop</string>
+    <string name="btnShopNow">Shop Now</string>
+    <string name="lblFlowerSelection">Select Flowers</string>
+    <string name="txtRoses">Roses</string>
+    <string name="txtCarnations">Carnations</string>
+    <string name="txtLilies">Lilies</string>
+    <string name="txtTulips">Tulips</string>
+    <string name="txtChrysanthemums">Chrysanthemums</string>
+    <string name="txtOrchids">Orchids</string>
+    <string name="lblSelectSize">Select Bouquet Size</string>
+    <string-array name="spnBouquetSize">
+        <item>Standard</item>
+        <item>Deluxe</item>
+        <item>Premium</item>
+    </string-array>
+    <string name="lblSelectColor">Select Color</string>
+    <string-array name="spnColor">
+        <item>White</item>
+        <item>Red</item>
+        <item>Pink</item>
+        <item>Yellow</item>
+        <item>Light Pink</item>
+        <item>Light Orange</item>
+    </string-array>
+
+    <string name="txtPriceRoses">BOUQUET PRICE:  Standard - $49.99   Deluxe - $59.99   Premium - $69.99</string>
+    <string name="txtPriceCarnations">BOUQUET PRICE:  Standard - $39.99   Deluxe - $49.99   Premium - $59.99</string>
+    <string name="txtPriceLilies">BOUQUET PRICE:  Standard - $44.99   Deluxe - $54.99   Premium - $64.99</string>
+    <string name="txtPriceTulips">BOUQUET PRICE:  Standard - $44.99   Deluxe - $54.99   Premium - $64.99</string>
+    <string name="txtPriceChrysantemums">BOUQUET PRICE:  Standard - $46.99   Deluxe - $56.99   Premium - $66.99</string>
+    <string name="txtPriceOrchids">BOUQUET PRICE:  Standard - $59.99   Deluxe - $69.99   Premium - $79.99</string>
+    <string name="btnBuy">Add to Cart</string>
+
+    <string name="lblCustomerInfo">Enter your information</string>
+    <string name="lblFirstName">First Name: </string>
+    <string name="lblLastName">Last Name: </string>
+    <string name="lblPhone">Phone: </string>
+    <string name="lblStreet">Street: </string>
+    <string name="lblCity">City: </string>
+    <string name="lblZip">Zip Code: </string>
+    <string name="txtFirstName"></string>
+    <string name="txtLastName"></string>
+    <string name="txtPhone"></string>
+    <string name="txtStreet"></string>
+    <string name="txtCity"></string>
+    <string name="txtZip"></string>
+    <string name="lblSelectService">Select Service</string>
+
+    <string name="rb1">Deliver</string>
+    <string name="rb2">Store Pickup</string>
+    <string name="btnSubmit">Submit Order</string>
+    <string name="lblOrder">Order Summary</string>
+    <string name="txtName">Name: </string>
+    <string name="txtAddress">Addres: </string>
+    <string name="lblSum">Order: </string>
+    <string name="txtOrder"></string>
+
+
+</resources>
